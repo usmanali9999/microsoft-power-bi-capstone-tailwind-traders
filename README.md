@@ -318,24 +318,17 @@ Based on the completed capstone dataset and reports:
 
 ---
 
-# 📱 Mobile-Optimized Analytics
+## 📱 Mobile-Optimized Analytics
 
-The Executive Dashboard was also configured for **mobile consumption in Power BI Service**, allowing key business metrics and visualizations to be accessed effectively from mobile devices.
+The Executive Dashboard was optimized for mobile consumption in Power BI Service, enabling stakeholders to monitor key sales and profitability metrics on mobile devices.
 
-The mobile layout prioritizes:
+The mobile layout prioritizes key KPIs and business visuals for a streamlined experience on smaller screens.
 
-- KPI cards
-- Core sales metrics
-- Profitability indicators
-- High-value executive visualizations
+### 🎥 Power BI Mobile Dashboard Demo
 
-This demonstrates that dashboard development involves not only analysis and visualization, but also consideration of **how stakeholders consume business intelligence across devices**.
+▶️ **[Watch the Mobile Dashboard Demo](Tailwind_Traders_Mobile_Dashboard_Demo.mp4)**
 
-> 📱 *Mobile layout screenshot/demo can be added here.*
-
-<!-- When you upload your mobile screenshot, replace the comment above with:
-![Tailwind Traders Mobile Dashboard](mobile_view.png)
--->
+The demo shows the Tailwind Traders Executive Dashboard running in the Power BI mobile experience, demonstrating mobile-optimized access to key sales and profitability insights.
 
 ---
 
@@ -431,22 +424,16 @@ Together, these Power BI Service capabilities support:
 
 # 📁 Repository Structure
 
-```text
-microsoft-power-bi-capstone-tailwind-traders/
-│
-├── README.md
-│
-├── Tailwind Traders Report.pbix
-│
-├── Tailwind-Traders-Sales.xlsx
-├── Purchases.xlsx
-├── Countries.xlsx
-│
-├── Executive_dashboard.png
-├── Sales_Overview.png
-├── Profit_Overview.png
-└── model_view.png
-```
+Countries.xlsx
+Executive_dashboard.png
+Profit_Overview.png
+Purchases.xlsx
+README.md
+Sales_Overview.png
+Tailwind Traders Report.pbix
+Tailwind-Traders-Sales.xlsx
+Tailwind_Traders_Mobile_Dashboard_Demo.mp4
+model_view.png
 
 ---
 
