@@ -420,22 +420,25 @@ Together, these Power BI Service capabilities support:
 - Python
 - Pandas
 
----
-
 # 📁 Repository Structure
 
-Countries.xlsx
-Executive_dashboard.png
-Profit_Overview.png
-Purchases.xlsx
-README.md
-Sales_Overview.png
-Tailwind Traders Report.pbix
-Tailwind-Traders-Sales.xlsx
-Tailwind_Traders_Mobile_Dashboard_Demo.mp4
-model_view.png
-
----
+```text
+microsoft-power-bi-capstone-tailwind-traders/
+│
+├── README.md
+│
+├── Tailwind Traders Report.pbix
+│
+├── Tailwind-Traders-Sales.xlsx
+├── Purchases.xlsx
+├── Countries.xlsx
+│
+├── Executive_dashboard.png
+├── Sales_Overview.png
+├── Profit_Overview.png
+├── model_view.png
+│
+└── Tailwind_Traders_Mobile_Dashboard_Demo.mp4
 
 # 🎓 Project Context
 
