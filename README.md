@@ -482,7 +482,7 @@ The project demonstrates my ability to translate defined business requirements i
 
 I'm continuing to build practical **Data Analytics and Business Intelligence projects** focused on solving business problems using **SQL, Python, Power BI, Excel, and modern analytics workflows**.
 
-- 💼 **LinkedIn:** [Muhammad Usman Ali](https://www.linkedin.com/in/usmanali9999/)
+- 💼 **LinkedIn:** [Usman Ali](https://www.linkedin.com/in/usmanali9999/)
 - 💻 **GitHub:** [usmanali9999](https://github.com/usmanali9999)
 
 ---
