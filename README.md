@@ -480,3 +480,6 @@ I'm continuing to build practical **Data Analytics and Business Intelligence pro
 
 - 💼 **LinkedIn:** [Usman Ali](https://www.linkedin.com/in/usmanali9999/)
 - 💻 **GitHub:** [usmanali9999](https://github.com/usmanali9999)
+---
+
+⭐ If you found this project interesting, feel free to explore my other data analytics projects on GitHub or connect with me on LinkedIn.
