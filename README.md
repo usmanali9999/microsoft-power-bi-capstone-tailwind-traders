@@ -145,7 +145,7 @@ This enabled international sales and financial metrics to be standardized into *
 
 ---
 
-# 🧩 Data Modeling
+## 🧩 Data Modeling
 
 Designed a relational Power BI model connecting sales, purchases, countries, exchange-rate information, calendar data, and USD-standardized sales calculations.
 
@@ -172,7 +172,7 @@ The model allows sales, purchases, geography, currency, and time to work togethe
 
 ---
 
-# 🌍 Standardizing Global Sales to USD
+## 🌍 Standardizing Global Sales to USD
 
 Created a calculated **Sales in USD** table using DAX and related exchange-rate information.
 
@@ -186,7 +186,7 @@ This allowed Tailwind Traders' international performance to be compared using a 
 
 ---
 
-# 🧮 DAX & Business Metrics
+## 🧮 DAX & Business Metrics
 
 Created DAX measures to convert transactional data into decision-oriented KPIs.
 
@@ -212,7 +212,7 @@ I also used **Power BI Performance Analyzer** to review report performance and e
 
 ---
 
-# 📈 Sales Overview
+## 📈 Sales Overview
 
 The **Sales Overview** was designed to support sales and operational decision-making across products, countries, customer loyalty, inventory, and time.
 
@@ -255,7 +255,7 @@ Allows users to interactively analyze performance for individual markets includi
 
 ---
 
-# 💰 Profit Overview
+## 💰 Profit Overview
 
 The **Profit Overview** focuses on financial performance, revenue contribution, profitability, geographic comparison, and changes over time.
 
@@ -287,7 +287,7 @@ Allows stakeholders to investigate financial performance across selected reporti
 
 ---
 
-# 🔎 Business Questions Addressed
+## 🔎 Business Questions Addressed
 
 The solution enables stakeholders to investigate questions such as:
 
@@ -303,7 +303,7 @@ The solution enables stakeholders to investigate questions such as:
 
 ---
 
-# 📊 Dashboard Observations
+## 📊 Dashboard Observations
 
 Based on the completed capstone dataset and reports:
 
@@ -320,19 +320,28 @@ Based on the completed capstone dataset and reports:
 
 ## 📱 Mobile-Optimized Analytics
 
-The Executive Dashboard was optimized for mobile consumption in Power BI Service, enabling stakeholders to monitor key sales and profitability metrics on mobile devices.
+The Executive Dashboard was optimized for **mobile consumption in Power BI Service**, enabling stakeholders to monitor key sales and profitability information from mobile devices.
 
-The mobile layout prioritizes key KPIs and business visuals for a streamlined experience on smaller screens.
+The mobile experience prioritizes:
+
+- KPI cards
+- Core sales metrics
+- Profitability indicators
+- Product performance
+- Geographic performance
+- High-value executive visualizations
+
+This demonstrates consideration not only of dashboard development, but also of **how stakeholders consume business intelligence across different devices**.
 
 ### 🎥 Power BI Mobile Dashboard Demo
 
 ▶️ **[Watch the Mobile Dashboard Demo](Tailwind_Traders_Mobile_Dashboard_Demo.mp4)**
 
-The demo shows the Tailwind Traders Executive Dashboard running in the Power BI mobile experience, demonstrating mobile-optimized access to key sales and profitability insights.
+The demo shows the Tailwind Traders Executive Dashboard in the Power BI mobile experience and demonstrates mobile-optimized access to key sales and profitability information.
 
 ---
 
-# 🚨 Proactive KPI Monitoring
+## 🚨 Proactive KPI Monitoring
 
 Configured a Power BI data alert for **Gross Revenue**.
 
@@ -348,7 +357,7 @@ This introduces **exception-based performance monitoring** into the BI solution.
 
 ---
 
-# 📧 Automated Report Distribution
+## 📧 Automated Report Distribution
 
 Configured weekly subscriptions for:
 
@@ -369,7 +378,7 @@ Together, these Power BI Service capabilities support:
 
 ---
 
-# 💼 Skills Demonstrated
+## 💼 Skills Demonstrated
 
 ### Business Intelligence
 
@@ -420,7 +429,9 @@ Together, these Power BI Service capabilities support:
 - Python
 - Pandas
 
-# 📁 Repository Structure
+---
+
+## 📁 Repository Structure
 
 ```text
 microsoft-power-bi-capstone-tailwind-traders/
@@ -439,8 +450,11 @@ microsoft-power-bi-capstone-tailwind-traders/
 ├── model_view.png
 │
 └── Tailwind_Traders_Mobile_Dashboard_Demo.mp4
+```
 
-# 🎓 Project Context
+---
+
+## 🎓 Project Context
 
 This project was completed as part of the **Microsoft Power BI Data Analyst Professional Certificate Capstone**.
 
@@ -451,9 +465,8 @@ The capstone uses a scenario-based business environment to demonstrate the pract
 **Tailwind Traders is the capstone business scenario. This repository represents an educational project and proof of applied learning rather than professional employment or client work.**
 
 ---
-```
 
-# 🚀 Key Takeaway
+## 🚀 Key Takeaway
 
 This project strengthened my understanding that **Business Intelligence is not simply about creating visualizations**.
 
@@ -469,8 +482,9 @@ The project demonstrates my ability to translate defined business requirements i
 
 I'm continuing to build practical **Data Analytics and Business Intelligence projects** focused on solving business problems using **SQL, Python, Power BI, Excel, and modern analytics workflows**.
 
-- 💼 **LinkedIn:** [Usman Ali](https://www.linkedin.com/in/usmanali9999/)
+- 💼 **LinkedIn:** [Muhammad Usman Ali](https://www.linkedin.com/in/usmanali9999/)
 - 💻 **GitHub:** [usmanali9999](https://github.com/usmanali9999)
+
 ---
 
 ⭐ If you found this project interesting, feel free to explore my other data analytics projects on GitHub or connect with me on LinkedIn.
