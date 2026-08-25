@@ -451,6 +451,7 @@ The capstone uses a scenario-based business environment to demonstrate the pract
 **Tailwind Traders is the capstone business scenario. This repository represents an educational project and proof of applied learning rather than professional employment or client work.**
 
 ---
+```
 
 # 🚀 Key Takeaway
 
